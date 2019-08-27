@@ -1,5 +1,3 @@
-# LUFS mp3 normalizer
-
 ## setup
 
 ```
